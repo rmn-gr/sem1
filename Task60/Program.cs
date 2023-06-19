@@ -4,7 +4,7 @@
 // 66(0,0,0) 25(0,1,0) 27(0,0,1) 90(0,1,1)
 // 34(1,0,0) 41(1,1,0) 26(1,0,1) 55(1,1,1)
 
-const int MAX_COUNT_OF_ELEMENTS = 89;
+const int MAX_COUNT_OF_ELEMENTS = 90;
 
 int[,,] CreateArr3D(int rows, int columns, int depth)
 {
